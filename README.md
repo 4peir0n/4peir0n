@@ -16,7 +16,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="./htb.jpeg" height="45" alt="hack the box logo" />
+  <img src="./images/htb.jpeg" height="45" alt="hack the box logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45" alt="bash logo"  />
@@ -35,9 +35,9 @@
 ###
 
 <div align="center">
-  <img src="nmap.png" height="45" alt="nmap logo"  />
+  <img src="./images/nmap.png" height="45" alt="nmap logo"  />
   <img width="12" />
-  <img src="metasploit.png" height="45" alt="meta logo"  />
+  <img src="./images/metasploit.png" height="45" alt="meta logo"  />
   <img width="12" />
 </div>
 
