@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm  <a href="https://github.com/4peir0n" target="_blank">Apeiron<a> ,don’t worry, I’m not dangerous... unless you are, in a hacker kind of way 😏💻 .</h1>
+<h1 align="center">Hi 👋, I'm  <a href="https://github.com/4peir0n" target="_blank">Apeiron<a> ,don’t worry, I’m not dangerous... unless you are, in a hacker kind of way 💻 .</h1>
 
 ###
 
