@@ -49,7 +49,7 @@
   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/-HacK THE BOX-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" height="40" alt="hack the box"  />
   </a>
-  <a href="[https://www.linkedin.com/in/daniel-j-benito-%E2%96%8Capeiron-%E2%96%8C-424b43300](https://www.linkedin.com/in/daniel-j-benito-424b43300/)/" target="_blank">
+  <a href="https://www.linkedin.com/in/daniel-j-benito-424b43300/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="Linke"  />
   </a>
   <a href=""_blank">
