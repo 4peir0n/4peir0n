@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm  <a href="https://github.com/4peir0n" target="_blank">Apeiron<a> ,don’t worry, I’m not dangerous... unless you are, in a hacker kind of way 💻 .</h1>
 
 ###
@@ -34,7 +33,7 @@
 <div align="center">
   <img src="./images/nmap.png" height="45" alt="nmap logo"  />
   <img width="12" />
-  <img src="/images/metasploit.png" height="45" alt="meta logo"  />
+  <img src="./images/metasploit.png" height="45" alt="meta logo"/>
   <img width="12" />
 </div>
 
