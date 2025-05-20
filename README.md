@@ -34,7 +34,7 @@
 <div align="center">
   <img src="./images/nmap.png" height="45" alt="nmap logo"  />
   <img width="12" />
-  <img src="./images/metasploit.png" height="45" alt="meta logo"  />
+  <img src="/images/metasploit.png" height="45" alt="meta logo"  />
   <img width="12" />
 </div>
 
